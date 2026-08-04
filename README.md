@@ -24,6 +24,12 @@
 
 **Core Skills**
 - C++
+- C-programming
+- Java
+- python
+- Html
+- css
+- java script
 - Data Structures & Algorithms
 - Problem Solving
 - Software Development
