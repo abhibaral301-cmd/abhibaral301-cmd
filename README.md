@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Passionate+about+Data+Structures+%26+Algorithms;C%2B%2B+Programmer+%7C+Problem+Solver;Aspiring+Software+Developer&font=Fira+Code&center=true&color=007FFF&width=650&height=45" alt="Typing SVG" />
 </p>
 
-<!-- SOCIAL LINKS (Aakarsh Style) -->
+<!-- SOCIAL LINKS -->
 <p align="center">
   <a href="https://linkedin.com/in/abhijeet-baral-382"><b>LinkedIn</b></a> •
   <a href="https://github.com/abhibaral301-cmd"><b>GitHub</b></a> •
@@ -87,7 +87,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhibaral301-cmd&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhibaral301-cmd&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -95,7 +95,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhibaral301-cmd&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhibaral301-cmd&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 <!-- ANIMATED LINE DIVIDER -->
@@ -105,13 +105,25 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhibaral301-cmd&theme=onestar&no-frame=true" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=abhibaral301-cmd&theme=onestar&no-frame=true" alt="Trophies" />
 </p>
 
----
+<!-- ANIMATED LINE DIVIDER -->
+<p align="center">
+  <img src="https://github.com/yusufyusfie/yusufyusfie/raw/main/line.gif" width="100%" />
+</p>
 
-## 📜 Certifications
-*Currently pursuing certifications & technical training in DSA & Software Development.*
+## 📜 Certifications & Licenses
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhijeet-baral-382/details/certifications/">
+    <img src="https://img.shields.io/badge/View%20All%20Certificates%20On%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Certifications" />
+  </a>
+</p>
+
+- 🏅 **Data Structures & Algorithms in C++** — *Verified on LinkedIn*
+- 🏅 **Problem Solving & Programming Fundamentals** — *Verified on LinkedIn*
+- 🏅 **Object-Oriented Programming (OOPs) & C++ STL** — *Verified on LinkedIn*
 
 ---
 <p align="center">
